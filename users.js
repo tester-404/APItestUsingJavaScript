@@ -1,3 +1,7 @@
+// чтобы не запускались оба закоментим этот звездочками
+
+/*
+
 import supertest from 'supertest';
 const request = supertest('https://gorest.co.in/public-api/');
 
@@ -19,3 +23,5 @@ describe('Users', () => {
         });
     });
 });
+
+*/
